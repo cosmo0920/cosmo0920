@@ -1,4 +1,13 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=cosmo0920&count_private=true&show_icons=true">
+
 ### Hi there 👋
+
+I'm an open source developer and little mozillian.
+
+I'm currently interested in logging, containers, modern browsers.
+
+  * I'm currently working with logging ecosystem which creates Fluentd, and also kubernetes.
+  * Also interested in Windows and macOS ecosystem.
 
 <!--
 **cosmo0920/cosmo0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
