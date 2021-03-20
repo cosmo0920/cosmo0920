@@ -6,7 +6,7 @@ I'm an open source developer and a little mozillian.
 
 I'm currently interested in logging, containers, and modern browsers.
 
-  * I'm currently working with logging ecosystem which creates Fluentd and also kubernetes.
+  * I'm currently working for logging ecosystem which creates Fluentd and also kubernetes.
   * Also interested in Windows and macOS ecosystem.
 
 <!--
