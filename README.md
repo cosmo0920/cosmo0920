@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an open source developer and a little mozillian.
+I'm an open source developer/maintainer and a little mozillian.
 
 I'm currently interested in logging, container environments, and modern browsers.
 
