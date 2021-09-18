@@ -4,7 +4,7 @@ I'm an open source developer/maintainer and a little mozillian.
 
 I'm currently interested in logging, container environments, monitoring metrics with InfluxDB/Prometheus(, and modern browsers).
 
-  * I'm currently working for logging ecosystem which creates Fluentd and also kubernetes.
+  * I'm currently working for logging ecosystem which creates Fluentd, monitoring Fluentd, and also kubernetes.
   * Also interested in Windows and macOS ecosystem.
 
 <hr>
