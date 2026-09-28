@@ -9,8 +9,8 @@ I'm currently interested in logging, container environments, monitoring metrics 
 
 <hr>
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmo0920)
-![github stats](https://github-readme-stats.vercel.app/api?username=cosmo0920&show_icons=true&count_private=true&line_height=40)
+![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cosmo0920)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=cosmo0920&show_icons=true&line_height=40)
 
 <!--
 **cosmo0920/cosmo0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
